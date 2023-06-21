@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=dwm
+Comment=bro.. iz dwm bro
+Exec=/usr/bin/dwm-start.sh
+Type=Application
